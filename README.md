@@ -16,6 +16,6 @@ Guess My Number is a web-based game created using HTML, CSS, and JavaScript. The
 * Endless fun and entertainment!
 
 ## Technologies Used
-* HTML5
-* CSS3
 * JavaScript
+* HTML
+* CSS
